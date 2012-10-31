@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B9801A17-6BE7-4512-94C7-95BC7C346874" ModuleId="SentAnalizer" />
+  <Module PersistentId="270CB1B3-E0E9-4209-9B65-6601C49CBB0F" ModuleId="SentAnalizer.Core" />
+  <Module PersistentId="9C1F7A52-DE31-4447-BEB1-0C0D1B3D5E8C" ModuleId="TestMe" />
+  <Module PersistentId="46715A67-B134-473C-ACE4-EF6AA1C0E688" ModuleId="Test" />
+</Modules>

@@ -3,6 +3,7 @@ using System.Text;
 using System.IO;
 using System;
 using System.Collections.Generic;
+using SentAnalizer.Core;
 
 namespace SentAnalizer
 {
@@ -11,18 +12,19 @@ namespace SentAnalizer
 
         static void Main(string[] args)
         {
-            Stemmer st = new Stemmer();
+            //Stemmer st = new Stemmer();
             //while (true)
             {
               //  var res = st.Stem(Console.ReadLine());
                // Console.WriteLine(res);
             }
-            var matrix = WordsMatrix.Build("Files\\input_learn_pos.txt");
+            //var matrix = WordsMatrix.Build("Files\\input_learn_pos.txt");
 
             var cont = AnalysisContext.CreateContext();
             BaesianClassifier baes = new BaesianClassifier(cont);
+            baes.Teach();
 
-            foreach (var line in File.ReadAllLines("Files\\input_learn_pos.txt"))
+            /*foreach (var line in File.ReadAllLines("Files\\input_learn_pos.txt"))
             {
                 Sentence s = new Sentence(cont, line);
                 s.GetWords();
@@ -37,6 +39,8 @@ namespace SentAnalizer
                 s.Sentiment = Sentiment.Negative;
                 baes.Learn(s);
             }
+             */
+
             List<Tuple<IWord, Sentiment>> list = new List<Tuple<IWord, Sentiment>>();
             foreach (var line in File.ReadAllLines("Files\\input.txt"))
             {

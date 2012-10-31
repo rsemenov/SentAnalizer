@@ -1,0 +1,34 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/d:files/f:words.txt" caret="0" fromTop="0" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/d:files/f:entities.txt" caret="0" fromTop="0" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/d:files/f:sentwords.txt" caret="26" fromTop="5" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:BaesianClassifier.cs" caret="3569" fromTop="99" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Constants.cs" caret="27" fromTop="0" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Extensions.cs" caret="41" fromTop="2" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:IWord.cs" caret="99" fromTop="4" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:MatrixBuilder.cs" caret="137" fromTop="6" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Sentence.cs" caret="79" fromTop="3" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Sentiment.cs" caret="10" fromTop="0" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Stemmer.cs" caret="158" fromTop="6" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="559" fromTop="12" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:AnalysisContext.cs" caret="139" fromTop="6" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="459" fromTop="16" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="161" fromTop="14" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="208" fromTop="8" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="691" fromTop="19" />
+    <File id="B9801A17-6BE7-4512-94C7-95BC7C346874/f:Program.cs" caret="1264" fromTop="35" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:AnalysisContext.cs" caret="136" fromTop="4" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:BaesianClassifier.cs" caret="3569" fromTop="99" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Constants.cs" caret="27" fromTop="0" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Extensions.cs" caret="44" fromTop="2" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:IWord.cs" caret="99" fromTop="4" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:MatrixBuilder.cs" caret="137" fromTop="6" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Sentence.cs" caret="79" fromTop="3" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Sentiment.cs" caret="27" fromTop="0" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:Stemmer.cs" caret="158" fromTop="6" />
+    <File id="270CB1B3-E0E9-4209-9B65-6601C49CBB0F/f:AnalysisContext.cs" caret="2441" fromTop="44" />
+  </RecentEdits>
+</RecentFiles>
